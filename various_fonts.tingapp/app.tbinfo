@@ -1,5 +1,7 @@
 {
-    "name": "",
-    "author": "",
-    "//": "For more information about this file, go to: http://docs.tingbot.com/reference/tingapp-format/"
+    "name": "Various Fonts App",
+    "author": "HeRoMo",
+    "caption": "Displaying Various Japanese Fonts sample.",
+    "version": "1.0.0",
+    "website": "https://github.com/HeRoMo/tingbot_samples"
 }
