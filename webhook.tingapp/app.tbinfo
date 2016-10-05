@@ -1,0 +1,7 @@
+{
+    "name"   : "Webhook sample",
+    "author" : "HeRoMo",
+    "caption": "Simple Webhook sample",
+    "version": "1.0.0",
+    "website": "https://github.com/HeRoMo/tingbot_samples"
+}
